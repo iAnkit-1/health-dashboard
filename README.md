@@ -1,8 +1,52 @@
-# React + Vite
+# **Healthcare Dashboard**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and user-friendly healthcare dashboard built using **React.js** and **Python**. This project demonstrates a functional front-end application for collecting user data, including name, age, and file uploads. The dashboard features a clean, responsive design and is implemented using custom CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Features**
+- **Input Fields**:
+  - Name (Text Input)
+  - Age (Dropdown Menu)
+  - File Upload
+- **Submit Button**:
+  - Captures and logs form data to the console.
+  - Provides a success alert upon submission.
+- **Modern Design**:
+  - Clean and visually appealing UI with responsive components.
+  - Subtle animations and hover effects for enhanced user experience.
+- **Technologies Used**:
+  - **React.js**: For building the front-end application.
+  - **CSS**: Custom styles for a modern look and feel.
+
+---
+
+## **Installation Instructions**
+
+### **React.js Version**
+1. Clone the repository:
+   ```bash
+ ---  git clone <https://github.com/iAnkit-1/health-dashboard.git>
+
+## **   Navigate to the project directory:**
+
+cd healthcare-dashboard
+
+**Install dependencies:**
+npm install
+
+**Start the development server:**
+
+npm run dev
+
+**Open the application in your browser at:**
+http://localhost:5173
+
+### **Python Version**
+Ensure Python is installed on your system (Python 3.x recommended).
+Install required libraries:
+
+pip install flask
+**Run the Python script:**
+
+python dashboard.py
