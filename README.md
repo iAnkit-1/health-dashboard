@@ -3,6 +3,8 @@
 A modern and user-friendly healthcare dashboard built using **React.js** and **Python**. This project demonstrates a functional front-end application for collecting user data, including name, age, and file uploads. The dashboard features a clean, responsive design and is implemented using custom CSS.
 
 ---
+!(Screenshot 2024-11-18 233205.png)
+!(Screenshot 2024-11-18 235103.png)
 
 ## **Features**
 - **Input Fields**:
